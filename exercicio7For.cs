@@ -17,4 +17,4 @@ namespace Curso
     }
 }
 
-//A função POW só funciona com variaveis flutuantes, e não com inteiros.
+//A função math.Pow só funciona se declarado como variavel flutuante, e não como inteiro.
